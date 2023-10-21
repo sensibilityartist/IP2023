@@ -12,8 +12,8 @@ Homework3
 
 Homework-Morphological Operator
 <figure class="half">
-  <a href="link"><img src="./MorphologicalOperator.gif" width="50%" height="50%" title="MorphologicalOperator.gif" alt="MorphologicalOperator.gif"></img></a>
-  <a href="link"><img src="./MorphologicalOperator.jpg" width="50%" height="50%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></img></a>
+  <a href="link"><img src="./MorphologicalOperator.gif" width="50%" height="50%" title="MorphologicalOperator.gif" alt="MorphologicalOperator.gif"></a>
+  <a href="link"><img src="./MorphologicalOperator.jpg" width="50%" height="50%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></a>
   <figcaption></figcaption>
 </figure>
 
