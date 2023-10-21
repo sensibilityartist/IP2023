@@ -12,7 +12,7 @@ Homework3
 
 Homework-Morphological Operator
 <img src="./MorphologicalOperator.gif" width="50%" height="50%" title="MorphologicalOperator.gif" alt="MorphologicalOperator.gif"></img>
-<img src="./MorphologicalOperator.png" width="50%" height="50%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></img>
+<img src="./MorphologicalOperator.jpg" width="50%" height="50%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></img>
 
 Homework-youtube
 https://www.youtube.com/channel/UCoDzF7OKYkziMIfPunU7Oiw
