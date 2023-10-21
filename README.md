@@ -12,9 +12,9 @@ Homework3
 
 Homework-Morphological Operator
 <figure class="half">
-  <img src="./MorphologicalOperator.gif" width="50%" height="50%" title="MorphologicalOperator.gif" alt="MorphologicalOperator.gif"></img>
-  <img src="./MorphologicalOperator.jpg" width="50%" height="50%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></img>
-  <figcaption>2개이미지.</figcaption>
+  <a href="link"><img src="./MorphologicalOperator.gif" width="50%" height="50%" title="MorphologicalOperator.gif" alt="MorphologicalOperator.gif"></img></a>
+  <a href="link"><img src="./MorphologicalOperator.jpg" width="50%" height="50%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></img></a>
+  <figcaption></figcaption>
 </figure>
 
 Homework-youtube
