@@ -16,7 +16,7 @@ Homework-Morphological Operator
 <img src="./MorphologicalOperator.jpg" width="100%" height="100%" title="MorphologicalOperator.png" alt="MorphologicalOperator.png"></img>
 
 Homework4
-<img src="./IP-HW4.jpg" width="100%" height="100%" title="IP-HW4.jpg" alt="IP-HW4.jpg"></img>
+<img src="./IP-HW4.gif" width="100%" height="100%" title="IP-HW4.gif" alt="IP-HW4.gif"></img>
 
 Homework-youtube
 https://www.youtube.com/channel/UCoDzF7OKYkziMIfPunU7Oiw
