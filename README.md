@@ -18,6 +18,9 @@ Homework-Morphological Operator
 Homework4
 <img src="./IP-HW4.gif" width="100%" height="100%" title="IP-HW4.gif" alt="IP-HW4.gif"></img>
 
+Homework5
+<img src="./IP-HW5.gif" width="100%" height="100%" title="IP-HW5.gif" alt="IP-HW5.gif"></img>
+
 Homework-youtube
 https://www.youtube.com/channel/UCoDzF7OKYkziMIfPunU7Oiw
 [![Video](https://img.youtube.com/vi/VhHO6tum2y4/maxresdefault.jpg)](https://www.youtube.com/watch?v=VhHO6tum2y4)
